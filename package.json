@@ -4,6 +4,8 @@
     "description": "An extention for markdown snippets to make writing README files easier!",
     "version": "1.0.0",
     "icon": "icon.png",
+    "publisher": "Zylops",
+    "homepage": "https://github.com/Zylops/marker",
     "repository": {
         "type": "git",
         "url": "https://github.com/Zylops/marker"
