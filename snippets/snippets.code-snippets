@@ -1,0 +1,87 @@
+{
+    "Marker Starter Template": {
+        "prefix": "md-starter",
+        "body": ["# ${1:Your Heading}", "Some content...."],
+        "description": "A basic markdown template!"
+    },
+    "Marker Heading 1": {
+        "prefix": "md-h1",
+        "body": ["# ${1:Your Heading}"],
+        "description": "A heading in markdown!"
+    },
+    "Marker Heading 2": {
+        "prefix": "md-h2",
+        "body": ["## ${1:Your Heading}"],
+        "description": "A heading in markdown!"
+    },
+    "Marker Heading 3": {
+        "prefix": "md-h3",
+        "body": ["### ${1:Your Heading}"],
+        "description": "A heading in markdown!"
+    },
+    "Marker Bold": {
+        "prefix": "md-bold",
+        "body": ["**${1:Some bold text}**"],
+        "description": "Bold text in markdown!"
+    },
+    "Marker Italics": {
+        "prefix": "md-italic",
+        "body": ["# ${1:Some italic text}"],
+        "description": "Italic text in markdown!"
+    },
+    "Marker Quote": {
+        "prefix": "md-quote",
+        "body": ["> ${1:A quote}"],
+        "description": "Quotes in markdown!"
+    },
+    "Marker List Item": {
+        "prefix": "md-listitem",
+        "body": ["> ${1:A list item}"],
+        "description": "List items in markdown!"
+    },
+    "Marker Inline Code": {
+        "prefix": "md-code",
+        "body": ["`{1:Some code}`"],
+        "description": "Code in markdown!"
+    },
+    "Marker Code Block": {
+        "prefix": "md-codeblock",
+        "body": ["```", "${1:Some code}", "```"],
+        "description": "Code blocks in markdown!"
+    },
+    "Marker Link": {
+        "prefix": "md-link",
+        "body": ["[${1:A link}](${2:http://example.com})"],
+        "description": "Links in markdown!"
+    },
+    "Marker Image": {
+        "prefix": "md-image",
+        "body": ["![${1:An image}](${2:http://example.com/image.png})"],
+        "description": "Images in markdown!"
+    },
+    "Marker Horizontal Line": {
+        "prefix": "md-hr",
+        "body": ["---"],
+        "description": "Horizontal lines in markdown!"
+    },
+    "Marker Emoji": {
+        "prefix": "md-emoji",
+        "body": ["😀"],
+        "description": "Emoji in markdown!"
+    },
+    "Marker Footnote": {
+        "prefix": "md-footnote",
+        "body": ["[^1]"],
+        "description": "Footnotes in markdown!"
+    },
+    "Marker Strikethrough": {
+        "prefix": "md-strikethrough",
+        "body": ["~~${1:Some text}~~"],
+        "description": "Strikethrough in markdown!"
+    },
+    "Marker Checklist":{
+        "prefix": "md-checklist",
+        "body": ["- [ ] ${1:Checklist item}"],
+        "description": "Checklists in markdown!" 
+    },
+} // End of snippet

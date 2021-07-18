@@ -1,0 +1,24 @@
+{
+    "name": "marker",
+    "displayName": "Marker",
+    "description": "An extention for markdown snippets to make writing README files easier!",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "md",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
