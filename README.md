@@ -3,7 +3,7 @@
 Built to make your markdown writing easier. We've got snippets for EVERY single markdown syntax.
 
 **And I mean EVERYTHING.**
-‎
+
 ---
 ‎
 + Headings 1/2/3
