@@ -29,3 +29,5 @@ Built to make your markdown writing easier. We've got snippets for EVERY single 
 + And much much more....
 
 [Check snippets.code-snippets for all keywords](https://github.com/Zylops/marker/blob/master/snippets/snippets.code-snippets)
+
+You can use intellisense by typing `md-` which shows you a list of every item.
