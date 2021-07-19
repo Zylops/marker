@@ -26,7 +26,7 @@ Built to make your markdown writing easier. We've got snippets for EVERY single 
 
 + [Links](https://www.example.com)
 
-+ [Images](image.jpg)
++ ![Images](image.jpg)
 
 + And much much more....
 
